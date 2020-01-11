@@ -10,6 +10,7 @@ public class Demo {
 		
 		System.out.println("Github merge- branch-master");
 		
+		System.out.println("*********");
 		
 		System.out.println("2nd Github merge- branch-master-123");
 	}
