@@ -7,6 +7,8 @@ public class Demo {
 		
 		System.out.println("Github merge");
 
+		
+		System.out.println("Github merge- branch-master");
 	}
 
 }
